@@ -1,0 +1,391 @@
+MMWR-YEAR,MMWR-WEEK,AGE CATEGORY,SEX CATEGORY,RACE CATEGORY,WEEKLY RATE,WEEK DATA,AGE DATA
+2023,40,Overall,Male,Overall,0.2,10/7/2023,0
+2023,40,Overall,Female,Overall,0.2,10/7/2023,0
+2023,40,Overall,Overall,White,0.2,10/7/2023,0
+2023,40,Overall,Overall,Black,0.3,10/7/2023,0
+2023,40,Overall,Overall,Hispanic/Latino,0.2,10/7/2023,0
+2023,40,Overall,Overall,Asian/Pacific Islander,0.3,10/7/2023,0
+2023,40,Overall,Overall,American Indian/Alaska Native,0,10/7/2023,0
+2023,40,Overall,Overall,Overall,0.2,10/7/2023,1
+2023,41,Overall,Overall,Black,0.2,10/14/2023,0
+2023,41,Overall,Overall,Hispanic/Latino,0.2,10/14/2023,0
+2023,41,Overall,Overall,Asian/Pacific Islander,0.1,10/14/2023,0
+2023,41,Overall,Overall,American Indian/Alaska Native,1.6,10/14/2023,0
+2023,41,Overall,Overall,Overall,0.2,10/14/2023,1
+2023,41,Overall,Female,Overall,0.2,10/14/2023,0
+2023,41,Overall,Male,Overall,0.3,10/14/2023,0
+2023,41,Overall,Overall,White,0.2,10/14/2023,0
+2023,42,Overall,Male,Overall,0.2,10/21/2023,0
+2023,42,Overall,Female,Overall,0.3,10/21/2023,0
+2023,42,Overall,Overall,White,0.2,10/21/2023,0
+2023,42,Overall,Overall,Black,0.4,10/21/2023,0
+2023,42,Overall,Overall,Hispanic/Latino,0.3,10/21/2023,0
+2023,42,Overall,Overall,Asian/Pacific Islander,0.1,10/21/2023,0
+2023,42,Overall,Overall,American Indian/Alaska Native,0,10/21/2023,0
+2023,42,Overall,Overall,Overall,0.3,10/21/2023,1
+2023,43,Overall,Female,Overall,0.3,10/28/2023,0
+2023,43,Overall,Male,Overall,0.2,10/28/2023,0
+2023,43,Overall,Overall,White,0.2,10/28/2023,0
+2023,43,Overall,Overall,Black,0.4,10/28/2023,0
+2023,43,Overall,Overall,Hispanic/Latino,0.4,10/28/2023,0
+2023,43,Overall,Overall,Asian/Pacific Islander,0.3,10/28/2023,0
+2023,43,Overall,Overall,American Indian/Alaska Native,0,10/28/2023,0
+2023,43,Overall,Overall,Overall,0.2,10/28/2023,1
+2023,44,Overall,Male,Overall,0.4,11/4/2023,0
+2023,44,Overall,Female,Overall,0.5,11/4/2023,0
+2023,44,Overall,Overall,White,0.3,11/4/2023,0
+2023,44,Overall,Overall,Black,0.7,11/4/2023,0
+2023,44,Overall,Overall,Hispanic/Latino,0.5,11/4/2023,0
+2023,44,Overall,Overall,Asian/Pacific Islander,0.4,11/4/2023,0
+2023,44,Overall,Overall,American Indian/Alaska Native,0.5,11/4/2023,0
+2023,44,Overall,Overall,Overall,0.5,11/4/2023,1
+2023,45,Overall,Overall,White,0.5,11/11/2023,0
+2023,45,Overall,Overall,Black,1.4,11/11/2023,0
+2023,45,Overall,Overall,Hispanic/Latino,0.9,11/11/2023,0
+2023,45,Overall,Overall,Asian/Pacific Islander,0.6,11/11/2023,0
+2023,45,Overall,Overall,American Indian/Alaska Native,1.6,11/11/2023,0
+2023,45,Overall,Overall,Overall,0.8,11/11/2023,1
+2023,45,Overall,Male,Overall,0.8,11/11/2023,0
+2023,45,Overall,Female,Overall,0.7,11/11/2023,0
+2023,46,Overall,Male,Overall,0.9,11/18/2023,0
+2023,46,Overall,Female,Overall,1,11/18/2023,0
+2023,46,Overall,Overall,White,0.6,11/18/2023,0
+2023,46,Overall,Overall,Black,1.8,11/18/2023,0
+2023,46,Overall,Overall,Hispanic/Latino,1.1,11/18/2023,0
+2023,46,Overall,Overall,Asian/Pacific Islander,0.7,11/18/2023,0
+2023,46,Overall,Overall,American Indian/Alaska Native,0.5,11/18/2023,0
+2023,46,Overall,Overall,Overall,0.9,11/18/2023,1
+2023,47,Overall,Overall,White,1.1,11/25/2023,0
+2023,47,Overall,Overall,Black,2.3,11/25/2023,0
+2023,47,Overall,Overall,Hispanic/Latino,1.2,11/25/2023,0
+2023,47,Overall,Female,Overall,1.4,11/25/2023,0
+2023,47,Overall,Male,Overall,1.3,11/25/2023,0
+2023,47,Overall,Overall,Asian/Pacific Islander,0.8,11/25/2023,0
+2023,47,Overall,Overall,American Indian/Alaska Native,1.1,11/25/2023,0
+2023,47,Overall,Overall,Overall,1.4,11/25/2023,1
+2023,48,Overall,Overall,White,1.5,12/2/2023,0
+2023,48,Overall,Overall,Black,3.7,12/2/2023,0
+2023,48,Overall,Overall,Hispanic/Latino,2.1,12/2/2023,0
+2023,48,Overall,Overall,Asian/Pacific Islander,1.8,12/2/2023,0
+2023,48,Overall,Overall,American Indian/Alaska Native,3.8,12/2/2023,0
+2023,48,Overall,Overall,Overall,2.1,12/2/2023,1
+2023,48,Overall,Male,Overall,1.9,12/2/2023,0
+2023,48,Overall,Female,Overall,2.3,12/2/2023,0
+2023,49,Overall,Overall,White,2.2,12/9/2023,0
+2023,49,Overall,Overall,Black,5.6,12/9/2023,0
+2023,49,Overall,Overall,Hispanic/Latino,2.2,12/9/2023,0
+2023,49,Overall,Overall,Asian/Pacific Islander,1.5,12/9/2023,0
+2023,49,Overall,Overall,American Indian/Alaska Native,4.9,12/9/2023,0
+2023,49,Overall,Overall,Overall,2.9,12/9/2023,1
+2023,49,Overall,Female,Overall,3.1,12/9/2023,0
+2023,49,Overall,Male,Overall,2.6,12/9/2023,0
+2023,50,Overall,Female,Overall,4.4,12/16/2023,0
+2023,50,Overall,Male,Overall,3.8,12/16/2023,0
+2023,50,Overall,Overall,White,3.2,12/16/2023,0
+2023,50,Overall,Overall,Black,8.1,12/16/2023,0
+2023,50,Overall,Overall,Hispanic/Latino,3.8,12/16/2023,0
+2023,50,Overall,Overall,Asian/Pacific Islander,1.8,12/16/2023,0
+2023,50,Overall,Overall,American Indian/Alaska Native,8.2,12/16/2023,0
+2023,50,Overall,Overall,Overall,4.1,12/16/2023,1
+2023,51,Overall,Overall,White,5.2,12/23/2023,0
+2023,51,Overall,Overall,Black,13.1,12/23/2023,0
+2023,51,Overall,Overall,Hispanic/Latino,5,12/23/2023,0
+2023,51,Overall,Overall,Asian/Pacific Islander,3.3,12/23/2023,0
+2023,51,Overall,Overall,American Indian/Alaska Native,12.6,12/23/2023,0
+2023,51,Overall,Overall,Overall,6.6,12/23/2023,1
+2023,51,Overall,Female,Overall,6.9,12/23/2023,0
+2023,51,Overall,Male,Overall,6.3,12/23/2023,0
+2023,52,Overall,Male,Overall,8.3,12/30/2023,0
+2023,52,Overall,Female,Overall,9.4,12/30/2023,0
+2023,52,Overall,Overall,White,7.7,12/30/2023,0
+2023,52,Overall,Overall,Black,16.4,12/30/2023,0
+2023,52,Overall,Overall,Hispanic/Latino,6.6,12/30/2023,0
+2023,52,Overall,Overall,Asian/Pacific Islander,3.7,12/30/2023,0
+2023,52,Overall,Overall,American Indian/Alaska Native,11,12/30/2023,0
+2023,52,Overall,Overall,Overall,8.9,12/30/2023,1
+2024,1,Overall,Male,Overall,6.8,1/6/2024,0
+2024,1,Overall,Female,Overall,6.9,1/6/2024,0
+2024,1,Overall,Overall,White,6,1/6/2024,0
+2024,1,Overall,Overall,Black,11.4,1/6/2024,0
+2024,1,Overall,Overall,Hispanic/Latino,5.5,1/6/2024,0
+2024,1,Overall,Overall,Asian/Pacific Islander,3.6,1/6/2024,0
+2024,1,Overall,Overall,American Indian/Alaska Native,7.7,1/6/2024,0
+2024,1,Overall,Overall,Overall,6.8,1/6/2024,1
+2024,2,Overall,Male,Overall,5.4,1/13/2024,0
+2024,2,Overall,Female,Overall,5.4,1/13/2024,0
+2024,2,Overall,Overall,White,4.8,1/13/2024,0
+2024,2,Overall,Overall,Black,8.9,1/13/2024,0
+2024,2,Overall,Overall,Hispanic/Latino,4.4,1/13/2024,0
+2024,2,Overall,Overall,Asian/Pacific Islander,3,1/13/2024,0
+2024,2,Overall,Overall,American Indian/Alaska Native,6,1/13/2024,0
+2024,2,Overall,Overall,Overall,5.4,1/13/2024,1
+2024,3,Overall,Female,Overall,4.3,1/20/2024,0
+2024,3,Overall,Male,Overall,4,1/20/2024,0
+2024,3,Overall,Overall,White,3.6,1/20/2024,0
+2024,3,Overall,Overall,Black,7.3,1/20/2024,0
+2024,3,Overall,Overall,Hispanic/Latino,2.9,1/20/2024,0
+2024,3,Overall,Overall,Asian/Pacific Islander,2,1/20/2024,0
+2024,3,Overall,Overall,American Indian/Alaska Native,4.9,1/20/2024,0
+2024,3,Overall,Overall,Overall,4.2,1/20/2024,1
+2024,4,Overall,Female,Overall,4.2,1/27/2024,0
+2024,4,Overall,Male,Overall,3.8,1/27/2024,0
+2024,4,Overall,Overall,White,3.4,1/27/2024,0
+2024,4,Overall,Overall,Black,7.3,1/27/2024,0
+2024,4,Overall,Overall,Hispanic/Latino,3.1,1/27/2024,0
+2024,4,Overall,Overall,Asian/Pacific Islander,1.5,1/27/2024,0
+2024,4,Overall,Overall,American Indian/Alaska Native,5.5,1/27/2024,0
+2024,4,Overall,Overall,Overall,4,1/27/2024,1
+2024,5,Overall,Male,Overall,3.3,2/3/2024,0
+2024,5,Overall,Female,Overall,3.6,2/3/2024,0
+2024,5,Overall,Overall,White,3.2,2/3/2024,0
+2024,5,Overall,Overall,Black,5.4,2/3/2024,0
+2024,5,Overall,Overall,Hispanic/Latino,2.5,2/3/2024,0
+2024,5,Overall,Overall,Asian/Pacific Islander,1.2,2/3/2024,0
+2024,5,Overall,Overall,American Indian/Alaska Native,4.4,2/3/2024,0
+2024,5,Overall,Overall,Overall,3.4,2/3/2024,1
+2024,6,Overall,Female,Overall,3.8,2/10/2024,0
+2024,6,Overall,Male,Overall,3.2,2/10/2024,0
+2024,6,Overall,Overall,White,3.2,2/10/2024,0
+2024,6,Overall,Overall,Black,5.4,2/10/2024,0
+2024,6,Overall,Overall,Hispanic/Latino,2.5,2/10/2024,0
+2024,6,Overall,Overall,Asian/Pacific Islander,1.3,2/10/2024,0
+2024,6,Overall,Overall,American Indian/Alaska Native,6,2/10/2024,0
+2024,6,Overall,Overall,Overall,3.5,2/10/2024,1
+2024,7,Overall,Male,Overall,3.2,2/17/2024,0
+2024,7,Overall,Overall,White,3.4,2/17/2024,0
+2024,7,Overall,Overall,Black,5.4,2/17/2024,0
+2024,7,Overall,Overall,Hispanic/Latino,2,2/17/2024,0
+2024,7,Overall,Female,Overall,3.6,2/17/2024,0
+2024,7,Overall,Overall,Asian/Pacific Islander,1.2,2/17/2024,0
+2024,7,Overall,Overall,American Indian/Alaska Native,2.7,2/17/2024,0
+2024,7,Overall,Overall,Overall,3.4,2/17/2024,1
+2024,8,Overall,Overall,White,3.2,2/24/2024,0
+2024,8,Overall,Overall,Black,5.3,2/24/2024,0
+2024,8,Overall,Overall,Hispanic/Latino,2.1,2/24/2024,0
+2024,8,Overall,Overall,Asian/Pacific Islander,1.4,2/24/2024,0
+2024,8,Overall,Overall,American Indian/Alaska Native,3.8,2/24/2024,0
+2024,8,Overall,Overall,Overall,3.3,2/24/2024,1
+2024,8,Overall,Female,Overall,3.6,2/24/2024,0
+2024,8,Overall,Male,Overall,3.1,2/24/2024,0
+2024,9,Overall,Male,Overall,3.3,3/2/2024,0
+2024,9,Overall,Female,Overall,3.5,3/2/2024,0
+2024,9,Overall,Overall,White,3.2,3/2/2024,0
+2024,9,Overall,Overall,Black,5.3,3/2/2024,0
+2024,9,Overall,Overall,Hispanic/Latino,2.2,3/2/2024,0
+2024,9,Overall,Overall,Asian/Pacific Islander,1.4,3/2/2024,0
+2024,9,Overall,Overall,American Indian/Alaska Native,2.7,3/2/2024,0
+2024,9,Overall,Overall,Overall,3.4,3/2/2024,1
+2024,10,Overall,Female,Overall,2.8,3/9/2024,0
+2024,10,Overall,Overall,White,2.7,3/9/2024,0
+2024,10,Overall,Male,Overall,2.6,3/9/2024,0
+2024,10,Overall,Overall,Black,3.8,3/9/2024,0
+2024,10,Overall,Overall,Hispanic/Latino,1.9,3/9/2024,0
+2024,10,Overall,Overall,Asian/Pacific Islander,0.8,3/9/2024,0
+2024,10,Overall,Overall,American Indian/Alaska Native,3.3,3/9/2024,0
+2024,10,Overall,Overall,Overall,2.7,3/9/2024,1
+2024,11,Overall,Male,Overall,2.1,3/16/2024,0
+2024,11,Overall,Overall,White,2.2,3/16/2024,0
+2024,11,Overall,Overall,Black,2.9,3/16/2024,0
+2024,11,Overall,Overall,Hispanic/Latino,1.5,3/16/2024,0
+2024,11,Overall,Overall,Asian/Pacific Islander,0.8,3/16/2024,0
+2024,11,Overall,Overall,American Indian/Alaska Native,2.2,3/16/2024,0
+2024,11,Overall,Overall,Overall,2.2,3/16/2024,1
+2024,11,Overall,Female,Overall,2.3,3/16/2024,0
+2024,12,Overall,Overall,White,1.7,3/23/2024,0
+2024,12,Overall,Male,Overall,1.7,3/23/2024,0
+2024,12,Overall,Female,Overall,2,3/23/2024,0
+2024,12,Overall,Overall,Black,3.1,3/23/2024,0
+2024,12,Overall,Overall,Hispanic/Latino,1.2,3/23/2024,0
+2024,12,Overall,Overall,Asian/Pacific Islander,0.7,3/23/2024,0
+2024,12,Overall,Overall,American Indian/Alaska Native,2.2,3/23/2024,0
+2024,12,Overall,Overall,Overall,1.9,3/23/2024,1
+2024,13,Overall,Female,Overall,1.7,3/30/2024,0
+2024,13,Overall,Male,Overall,1.5,3/30/2024,0
+2024,13,Overall,Overall,White,1.4,3/30/2024,0
+2024,13,Overall,Overall,Black,2.3,3/30/2024,0
+2024,13,Overall,Overall,Hispanic/Latino,1,3/30/2024,0
+2024,13,Overall,Overall,Asian/Pacific Islander,0.7,3/30/2024,0
+2024,13,Overall,Overall,American Indian/Alaska Native,1.1,3/30/2024,0
+2024,13,Overall,Overall,Overall,1.6,3/30/2024,1
+2024,14,Overall,Male,Overall,1,4/6/2024,0
+2024,14,Overall,Female,Overall,1.5,4/6/2024,0
+2024,14,Overall,Overall,White,1.1,4/6/2024,0
+2024,14,Overall,Overall,Black,1.3,4/6/2024,0
+2024,14,Overall,Overall,Hispanic/Latino,0.7,4/6/2024,0
+2024,14,Overall,Overall,Asian/Pacific Islander,0.7,4/6/2024,0
+2024,14,Overall,Overall,American Indian/Alaska Native,0.5,4/6/2024,0
+2024,14,Overall,Overall,Overall,1.2,4/6/2024,1
+2024,15,Overall,Male,Overall,,4/13/2024,0
+2024,15,Overall,Female,Overall,,4/13/2024,0
+2024,15,Overall,Overall,White,,4/13/2024,0
+2024,15,Overall,Overall,Black,,4/13/2024,0
+2024,15,Overall,Overall,Hispanic/Latino,,4/13/2024,0
+2024,15,Overall,Overall,Asian/Pacific Islander,,4/13/2024,0
+2024,15,Overall,Overall,American Indian/Alaska Native,,4/13/2024,0
+2024,15,Overall,Overall,Overall,,4/13/2024,1
+2024,16,Overall,Male,Overall,,4/20/2024,0
+2024,16,Overall,Female,Overall,,4/20/2024,0
+2024,16,Overall,Overall,White,,4/20/2024,0
+2024,16,Overall,Overall,Black,,4/20/2024,0
+2024,16,Overall,Overall,Hispanic/Latino,,4/20/2024,0
+2024,16,Overall,Overall,Asian/Pacific Islander,,4/20/2024,0
+2024,16,Overall,Overall,American Indian/Alaska Native,,4/20/2024,0
+2024,16,Overall,Overall,Overall,,4/20/2024,1
+2024,17,Overall,Overall,White,,4/27/2024,0
+2024,17,Overall,Overall,Black,,4/27/2024,0
+2024,17,Overall,Overall,Hispanic/Latino,,4/27/2024,0
+2024,17,Overall,Overall,Asian/Pacific Islander,,4/27/2024,0
+2024,17,Overall,Overall,American Indian/Alaska Native,,4/27/2024,0
+2024,17,Overall,Overall,Overall,,4/27/2024,1
+2024,17,Overall,Female,Overall,,4/27/2024,0
+2024,17,Overall,Male,Overall,,4/27/2024,0
+2023,40,0-4,Overall,Overall,0.4,10/7/2023,1
+2023,41,0-4,Overall,Overall,0.3,10/14/2023,1
+2023,42,0-4,Overall,Overall,0.2,10/21/2023,1
+2023,43,0-4,Overall,Overall,0.2,10/28/2023,1
+2023,44,0-4,Overall,Overall,0.8,11/4/2023,1
+2023,45,0-4,Overall,Overall,0.8,11/11/2023,1
+2023,46,0-4,Overall,Overall,0.7,11/18/2023,1
+2023,47,0-4,Overall,Overall,1.1,11/25/2023,1
+2023,48,0-4,Overall,Overall,2.2,12/2/2023,1
+2023,49,0-4,Overall,Overall,2.2,12/9/2023,1
+2023,50,0-4,Overall,Overall,4.7,12/16/2023,1
+2023,51,0-4,Overall,Overall,6.7,12/23/2023,1
+2023,52,0-4,Overall,Overall,7.1,12/30/2023,1
+2024,1,0-4,Overall,Overall,7.1,1/6/2024,1
+2024,2,0-4,Overall,Overall,5.7,1/13/2024,1
+2024,3,0-4,Overall,Overall,4.6,1/20/2024,1
+2024,4,0-4,Overall,Overall,4.6,1/27/2024,1
+2024,5,0-4,Overall,Overall,2.9,2/3/2024,1
+2024,6,0-4,Overall,Overall,4.5,2/10/2024,1
+2024,7,0-4,Overall,Overall,3.8,2/17/2024,1
+2024,8,0-4,Overall,Overall,3.3,2/24/2024,1
+2024,9,0-4,Overall,Overall,4.2,3/2/2024,1
+2024,10,0-4,Overall,Overall,2.9,3/9/2024,1
+2024,11,0-4,Overall,Overall,2.7,3/16/2024,1
+2024,12,0-4,Overall,Overall,1.9,3/23/2024,1
+2024,13,0-4,Overall,Overall,1,3/30/2024,1
+2024,14,0-4,Overall,Overall,1.2,4/6/2024,1
+2024,15,0-4,Overall,Overall,,4/13/2024,1
+2024,16,0-4,Overall,Overall,,4/20/2024,1
+2024,17,0-4,Overall,Overall,,4/27/2024,1
+2023,40,5-17,Overall,Overall,0.1,10/7/2023,1
+2023,41,5-17,Overall,Overall,0.1,10/14/2023,1
+2023,42,5-17,Overall,Overall,0.1,10/21/2023,1
+2023,43,5-17,Overall,Overall,0.2,10/28/2023,1
+2023,44,5-17,Overall,Overall,0.2,11/4/2023,1
+2023,45,5-17,Overall,Overall,0.6,11/11/2023,1
+2023,46,5-17,Overall,Overall,0.7,11/18/2023,1
+2023,47,5-17,Overall,Overall,0.6,11/25/2023,1
+2023,48,5-17,Overall,Overall,0.9,12/2/2023,1
+2023,49,5-17,Overall,Overall,1.3,12/9/2023,1
+2023,50,5-17,Overall,Overall,1.7,12/16/2023,1
+2023,51,5-17,Overall,Overall,2.7,12/23/2023,1
+2023,52,5-17,Overall,Overall,2.3,12/30/2023,1
+2024,1,5-17,Overall,Overall,1.8,1/6/2024,1
+2024,2,5-17,Overall,Overall,1.7,1/13/2024,1
+2024,3,5-17,Overall,Overall,1.3,1/20/2024,1
+2024,4,5-17,Overall,Overall,2,1/27/2024,1
+2024,5,5-17,Overall,Overall,1.9,2/3/2024,1
+2024,6,5-17,Overall,Overall,1.7,2/10/2024,1
+2024,7,5-17,Overall,Overall,1.7,2/17/2024,1
+2024,8,5-17,Overall,Overall,1.7,2/24/2024,1
+2024,9,5-17,Overall,Overall,1.6,3/2/2024,1
+2024,10,5-17,Overall,Overall,1.7,3/9/2024,1
+2024,11,5-17,Overall,Overall,1.2,3/16/2024,1
+2024,12,5-17,Overall,Overall,1.3,3/23/2024,1
+2024,13,5-17,Overall,Overall,0.7,3/30/2024,1
+2024,14,5-17,Overall,Overall,0.6,4/6/2024,1
+2024,15,5-17,Overall,Overall,,4/13/2024,1
+2024,16,5-17,Overall,Overall,,4/20/2024,1
+2024,17,5-17,Overall,Overall,,4/27/2024,1
+2023,40,18-49,Overall,Overall,0.1,10/7/2023,1
+2023,41,18-49,Overall,Overall,0.1,10/14/2023,1
+2023,42,18-49,Overall,Overall,0.1,10/21/2023,1
+2023,43,18-49,Overall,Overall,0.1,10/28/2023,1
+2023,44,18-49,Overall,Overall,0.2,11/4/2023,1
+2023,45,18-49,Overall,Overall,0.4,11/11/2023,1
+2023,46,18-49,Overall,Overall,0.4,11/18/2023,1
+2023,47,18-49,Overall,Overall,0.7,11/25/2023,1
+2023,48,18-49,Overall,Overall,1.1,12/2/2023,1
+2023,49,18-49,Overall,Overall,1.5,12/9/2023,1
+2023,50,18-49,Overall,Overall,2.3,12/16/2023,1
+2023,51,18-49,Overall,Overall,3.1,12/23/2023,1
+2023,52,18-49,Overall,Overall,4.5,12/30/2023,1
+2024,1,18-49,Overall,Overall,3.3,1/6/2024,1
+2024,2,18-49,Overall,Overall,2.6,1/13/2024,1
+2024,3,18-49,Overall,Overall,1.9,1/20/2024,1
+2024,4,18-49,Overall,Overall,2.1,1/27/2024,1
+2024,5,18-49,Overall,Overall,1.7,2/3/2024,1
+2024,6,18-49,Overall,Overall,1.7,2/10/2024,1
+2024,7,18-49,Overall,Overall,1.7,2/17/2024,1
+2024,8,18-49,Overall,Overall,1.7,2/24/2024,1
+2024,9,18-49,Overall,Overall,1.8,3/2/2024,1
+2024,10,18-49,Overall,Overall,1.3,3/9/2024,1
+2024,11,18-49,Overall,Overall,1.1,3/16/2024,1
+2024,12,18-49,Overall,Overall,0.9,3/23/2024,1
+2024,13,18-49,Overall,Overall,0.8,3/30/2024,1
+2024,14,18-49,Overall,Overall,0.7,4/6/2024,1
+2024,15,18-49,Overall,Overall,,4/13/2024,1
+2024,16,18-49,Overall,Overall,,4/20/2024,1
+2024,17,18-49,Overall,Overall,,4/27/2024,1
+2023,40,50-64,Overall,Overall,0.2,10/7/2023,1
+2023,41,50-64,Overall,Overall,0.3,10/14/2023,1
+2023,42,50-64,Overall,Overall,0.4,10/21/2023,1
+2023,43,50-64,Overall,Overall,0.3,10/28/2023,1
+2023,44,50-64,Overall,Overall,0.6,11/4/2023,1
+2023,45,50-64,Overall,Overall,1,11/11/2023,1
+2023,46,50-64,Overall,Overall,1.3,11/18/2023,1
+2023,47,50-64,Overall,Overall,1.8,11/25/2023,1
+2023,48,50-64,Overall,Overall,2.6,12/2/2023,1
+2023,49,50-64,Overall,Overall,3.6,12/9/2023,1
+2023,50,50-64,Overall,Overall,4.6,12/16/2023,1
+2023,51,50-64,Overall,Overall,8.9,12/23/2023,1
+2023,52,50-64,Overall,Overall,11.2,12/30/2023,1
+2024,1,50-64,Overall,Overall,8.6,1/6/2024,1
+2024,2,50-64,Overall,Overall,7.2,1/13/2024,1
+2024,3,50-64,Overall,Overall,5,1/20/2024,1
+2024,4,50-64,Overall,Overall,4.5,1/27/2024,1
+2024,5,50-64,Overall,Overall,3.9,2/3/2024,1
+2024,6,50-64,Overall,Overall,3.9,2/10/2024,1
+2024,7,50-64,Overall,Overall,3.7,2/17/2024,1
+2024,8,50-64,Overall,Overall,3.6,2/24/2024,1
+2024,9,50-64,Overall,Overall,3.3,3/2/2024,1
+2024,10,50-64,Overall,Overall,2.8,3/9/2024,1
+2024,11,50-64,Overall,Overall,2.1,3/16/2024,1
+2024,12,50-64,Overall,Overall,2,3/23/2024,1
+2024,13,50-64,Overall,Overall,1.7,3/30/2024,1
+2024,14,50-64,Overall,Overall,1.3,4/6/2024,1
+2024,15,50-64,Overall,Overall,,4/13/2024,1
+2024,16,50-64,Overall,Overall,,4/20/2024,1
+2024,17,50-64,Overall,Overall,,4/27/2024,1
+2023,40,65+,Overall,Overall,0.7,10/7/2023,1
+2023,41,65+,Overall,Overall,0.7,10/14/2023,1
+2023,42,65+,Overall,Overall,0.6,10/21/2023,1
+2023,43,65+,Overall,Overall,0.5,10/28/2023,1
+2023,44,65+,Overall,Overall,1.1,11/4/2023,1
+2023,45,65+,Overall,Overall,1.7,11/11/2023,1
+2023,46,65+,Overall,Overall,2.1,11/18/2023,1
+2023,47,65+,Overall,Overall,3.4,11/25/2023,1
+2023,48,65+,Overall,Overall,5.5,12/2/2023,1
+2023,49,65+,Overall,Overall,7.6,12/9/2023,1
+2023,50,65+,Overall,Overall,10.7,12/16/2023,1
+2023,51,65+,Overall,Overall,17.3,12/23/2023,1
+2023,52,65+,Overall,Overall,25.4,12/30/2023,1
+2024,1,65+,Overall,Overall,19.5,1/6/2024,1
+2024,2,65+,Overall,Overall,15,1/13/2024,1
+2024,3,65+,Overall,Overall,12,1/20/2024,1
+2024,4,65+,Overall,Overall,10.4,1/27/2024,1
+2024,5,65+,Overall,Overall,9.5,2/3/2024,1
+2024,6,65+,Overall,Overall,9.4,2/10/2024,1
+2024,7,65+,Overall,Overall,9.2,2/17/2024,1
+2024,8,65+,Overall,Overall,9.3,2/24/2024,1
+2024,9,65+,Overall,Overall,9.5,3/2/2024,1
+2024,10,65+,Overall,Overall,7.3,3/9/2024,1
+2024,11,65+,Overall,Overall,6.2,3/16/2024,1
+2024,12,65+,Overall,Overall,4.8,3/23/2024,1
+2024,13,65+,Overall,Overall,4.8,3/30/2024,1
+2024,14,65+,Overall,Overall,3.3,4/6/2024,1
+2024,15,65+,Overall,Overall,,4/13/2024,1
+2024,16,65+,Overall,Overall,,4/20/2024,1
+2024,17,65+,Overall,Overall,,4/27/2024,1
