@@ -17,4 +17,15 @@ CREATE TABLE public_health_labs_data (
 	H3N2v VARCHAR(10)	
 );
 
-SELECT * FROM influenza_deaths;
+CREATE TABLE hospitalization_data(
+	Year VARCHAR(50),
+	MMWR_Year VARCHAR(50),
+	MMWR_Week VARCHAR(50),
+	Age VARCHAR(50),
+	Sex VARCHAR(50),
+	Race VARCHAR(50),
+	Cumulative_Rate VARCHAR(50),
+	Weekly_Rate VARCHAR(50),
+	Age_Adj_Cumulative_Rate VARCHAR(50),
+	Age_Adj_Weekly_Rate VARCHAR(50)
+);
