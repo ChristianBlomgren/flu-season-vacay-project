@@ -39,7 +39,7 @@
     -Visualizations created from user-selected filtered data
 
 **Both Track Requirements**
-Group Presentation (25 points)
+- Group Presentation (25 points)
 - All group members speak during the presentation. (5 points)
 - The content is relevant to the project. (5 points)
 - The presentation maintains audience interest. (5 points)
