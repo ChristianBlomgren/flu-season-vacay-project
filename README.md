@@ -1,9 +1,13 @@
 # flu-season-vacay-project
 
+
+
 **Project Overview: Understanding the Impact of Influenza**
 
 The project delves into influenza data categorized by strain, hospitalizations, and mortality rates.
 Its primary aim is to comprehensively evaluate the patterns and effects of the flu on a national scale throughout a typical flu season.
+
+
 
 **Instructions**
 
@@ -21,7 +25,14 @@ For more technical instructions you would need to run the ipynb through a jupity
 Once all libraries are installed (or already downloaded) the file can run directly off the computer as long as the data folder is downloaded.
 Also all visualizations are interactable within the jupityr notebook as well
 
+
+
 **Ethical Considerations**
+
+In our personal assessment of flu data, ethical considerations remain a top priority.
+We're delving into which flu strains are prevalent, who's most affected in terms of age, race, and gender, and what the mortality rates indicate.
+By reviewing this data we can get a more indepth view of who is being affected and assess when spikes of viruses are occuring.
+
 
 
 **Sources**
@@ -29,8 +40,8 @@ Also all visualizations are interactable within the jupityr notebook as well
 https://www.cdc.gov/flu/
 
 
-**Rubric**
 
+**Rubric**
 
 **Data Visualization Track Requirements (75 points)**
 
@@ -77,7 +88,6 @@ https://www.cdc.gov/flu/
   
 
   
-
 **Both Track Requirements**
 
 - Group Presentation (25 points)
