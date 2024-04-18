@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Visualizations</title>
+  <!-- Include any necessary CSS files here -->
+  <style>
+    /* Add any custom CSS styles here */
+    canvas {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="visualization-container">
+    <!-- Canvas elements for visualizations will be dynamically generated here -->
+  </div>
+
+  <!-- Include JavaScript files -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="visualizations.js"></script>
+  <script>
+    // Read and parse CSV files
+    Promise.all([
+        fetch('ILINet.csv').then(response => response.text()),
+        fetch('WHO_NREVSS_Clinical_Labs.csv').then(response => response.text()),
+        fetch('WHO_NREVSS_Public_Health_Labs.csv').then(response => response.text())
+      ])
+      .then(([ILINetData, ClinicalLabsData, PublicHealthLabsData]) => {
+        // Parse CSV data
+        const ILINetDataParsed = Papa.parse(ILINetData, { header: true }).data;
+        const ClinicalLabsDataParsed = Papa.parse(ClinicalLabsData, { header: true }).data;
+        const PublicHealthLabsDataParsed = Papa.parse(PublicHealthLabsData, { header: true }).data;
+
+        // Render visualizations
+        renderVisualization(ILINetDataParsed, 'Visualization 1');
+        renderVisualization(ClinicalLabsDataParsed, 'Visualization 2');
+        renderVisualization(PublicHealthLabsDataParsed, 'Visualization 3');
+      })
+      .catch(error => {
+        console.error('Error reading CSV files:', error);
+      });
+
+    // Function to render a visualization
+    function renderVisualization(data, title) {
+      // Create a canvas element
+      const canvas = document.createElement('canvas');
+      // Generate a unique ID for the canvas
+      const id = 'visualization-' + Math.random().toString(36).substring(7);
+      canvas.id = id;
+      // Append the canvas to the visualization container
+      document.getElementById('visualization-container').appendChild(canvas);
+      // Write code to render the visualization based on the received data
+      // You can use Chart.js or any other library to create the visualization
+      // For example:
+      const ctx = canvas.getContext('2d');
+      const chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          // Your chart data here
+        },
+        options: {
+          // Your chart options here
+          title: {
+            display: true,
+            text: title
+          }
+        }
+      });
+    }
+  </script>
+</body>
+
+</html>
