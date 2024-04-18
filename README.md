@@ -1,5 +1,33 @@
 # flu-season-vacay-project
 
+**Project Overview: Understanding the Impact of Influenza**
+
+The project delves into influenza data categorized by strain, hospitalizations, and mortality rates.
+Its primary aim is to comprehensively evaluate the patterns and effects of the flu on a national scale throughout a typical flu season.
+
+**Instructions**
+
+All visualizations have been exported to an HTML link which can be opened by anybody to interact with.
+
+For more technical instructions you would need to run the ipynb through a jupityr notbook
+  -make sure to install the following libraries
+  1. dash
+  2. matplotlib
+  3. pandas
+  4. plotly
+  5. numpy
+  6. ipywidgets
+
+Once all libraries are installed (or already downloaded) the file can run directly off the computer as long as the data folder is downloaded.
+Also all visualizations are interactable within the jupityr notebook as well
+
+**Ethical Considerations**
+
+
+**Sources**
+
+https://www.cdc.gov/flu/
+
 
 **Rubric**
 
