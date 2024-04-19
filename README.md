@@ -90,7 +90,7 @@ https://www.cdc.gov/flu/
   
 **Both Track Requirements**
 
-- Group Presentation (25 points)
+**Group Presentation (25 points)**
   
 - All group members speak during the presentation. (5 points)
   
