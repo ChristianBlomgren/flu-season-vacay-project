@@ -33,6 +33,10 @@ In our personal assessment of flu data, ethical considerations remain a top prio
 We're delving into which flu strains are prevalent, who's most affected in terms of age, race, and gender, and what the mortality rates indicate.
 By reviewing this data we can get a more indepth view of who is being affected and assess when spikes of viruses are occuring.
 
+This data was used simply for programming purposes only.
+The data is from the CDC and very simplified.
+For any and all needs for data may be referred back to the CDC site.
+
 
 
 **Sources**
